@@ -276,16 +276,13 @@
                     dan meningkatkan keamanan sistem digital.
                 </p>
                 <div class="footer-social">
-                    <a href="https://github.com/yourusername" class="social-link" target="_blank" title="GitHub">
+                    <a href="https://github.com/nothingwhome" class="social-link" target="_blank" title="GitHub">
                         <i>🐱</i>
-                    </a>
-                    <a href="https://linkedin.com/in/yourusername" class="social-link" target="_blank" title="LinkedIn">
-                        <i>💼</i>
                     </a>
                     <a href="https://twitter.com/yourusername" class="social-link" target="_blank" title="Twitter">
                         <i>🐦</i>
                     </a>
-                    <a href="https://medium.com/@yourusername" class="social-link" target="_blank" title="Medium">
+                    <a href="https://maulanarskidp.medium.com/" class="social-link" target="_blank" title="Medium">
                         <i>📝</i>
                     </a>
                 </div>
@@ -296,15 +293,14 @@
                     <li><a href="#home">Home</a></li>
                     <li><a href="#skills">Keahlian</a></li>
                     <li><a href="#projects">Projects</a></li>
-                    <li><a href="#bounty">Bug Bounty</a></li>
+                    <li><a href="#achive">Achivement</a></li>
                     <li><a href="#contact">Contact</a></li>
                 </ul>
             </div>
             <div class="footer-links">
                 <h3>Services</h3>
                 <ul>
-                    <li><a href="#">Penetration Testing</a></li>
-                    <li><a href="#">Bug Bounty Hunting</a></li>
+                    <li><a href="https://wa.me/+628977531090">Penetration Testing</a></li>
                 </ul>
             </div>
             <div class="footer-contact">
